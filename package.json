@@ -17,7 +17,8 @@
     "@vercel/remix": "^2.9.2-patch.2",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "my-test-lib": "git+https://github.com/mnemitz/my-test-lib"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.9.2",
